@@ -1,3 +1,8 @@
+#Amanda New
+#CSD310-A311
+#Module 7.2 Assignment
+#Movies Queries
+
 import mysql.connector
 from mysql.connector import errorcode
 
